@@ -25,7 +25,7 @@ namespace GraphPlotter
             const double startX = 0.9, endX = 4.1, step = 0.2; // Параметры функции (фиксированы по заданию)
 
             // Вычисляем количество точек
-            int pointCount = (int)((endX - startX) / step) + 1;
+            int pointCount = (int)Math.Round((endX - startX) / step) + 1;
 
             // Очищаем ListBox от предыдущих результатов
             listBoxPoints.Items.Clear();
