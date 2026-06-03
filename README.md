@@ -35,7 +35,7 @@
 
 Нажатие на кнопку "Построить график"
 
-<img width="845" height="494" alt="image" src="https://github.com/user-attachments/assets/643e889b-e3c2-4d84-adfe-f706ed7e47c4" />
+<img width="844" height="491" alt="image" src="https://github.com/user-attachments/assets/f5a4b287-ad3a-4ce1-9acc-dcab2ba9b32a" />
 
 Нажатие на кнопку "Записать в файл"
 
@@ -43,4 +43,4 @@
 
 Записанные координаты
 
-<img width="236" height="422" alt="image" src="https://github.com/user-attachments/assets/41eacb0d-f970-4fd0-b127-eea2786957d8" />
+<img width="218" height="439" alt="image" src="https://github.com/user-attachments/assets/3f0719c6-8416-4021-bf59-8392a4362b21" />
