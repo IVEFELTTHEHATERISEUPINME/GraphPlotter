@@ -44,3 +44,7 @@
 Записанные координаты
 
 <img width="218" height="439" alt="image" src="https://github.com/user-attachments/assets/3f0719c6-8416-4021-bf59-8392a4362b21" />
+
+## 📄 Лицензия
+
+MIT License — свободное использование, копирование, модификация.
